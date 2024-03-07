@@ -1,4 +1,29 @@
-### Hi there 👋
+
+# Ethan Huang
+
+### 👋 Hi there! 
+I'm Ethan, a passionate and dedicated software engineer specializing in systems optimization, memory management, and software development. With a Master of Engineering in Computer Science from Cornell University, I've cultivated a deep understanding of the intricacies of computer systems, particularly in the realms of cache management, multi-threading, and performance optimization.
+
+## 🛠 Technical Proficiencies
+
+- **Languages**: Java, C++11/17, C17, Python, JavaScript, Shell Script, PHP
+- **Systems and Databases**: Linux, UNIX, MacOS, Windows, MySQL, PostgreSQL, SQL
+- **Tools and APIs**: Git, GitHub, Vim, GDB, GCP, Jenkins, Android NDK, numpy, Matplotlib, Pandas, ReactJs
+- **Skills**: Algorithms, Data Structure, Thread Programming, Concurrency Programming, Multi-Threading, System Optimization, Memory Management
+
+## 📚 Projects and Contributions
+
+My work on projects like cache replacement policies, thread management systems, and optimizing data structures for operating system components has been recognized for its innovation and impact on system efficiency. I'm also proud of my contributions to open-source projects, where I've applied my expertise to tackle complex challenges in system performance and reliability.
+
+## 📫 Get in Touch
+
+I'm always open to collaborating on projects and sharing knowledge with fellow developers. Feel free to reach out to me:
+
+- **Email**: ih246@cornell.edu
+- **LinkedIn**: [ethanhuang-ih](https://www.linkedin.com/in/ethanhuang-ih)
+- **GitHub**: [EthanCornell](https://github.com/EthanCornell)
+
+Let's connect and build something amazing together!
 
 <!--
 **EthanCornell/EthanCornell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
