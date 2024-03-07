@@ -5,7 +5,7 @@ I'm Ethan, a passionate and dedicated software engineer specializing in systems 
 
 ## 🛠 Technical Proficiencies
 
-- **Languages**: Java, C++11/17, C17, Python, JavaScript, Shell Script, PHP
+- **Languages**: C++11/17, C17, Python, Java, Shell Script
 - **Systems and Databases**: Linux, UNIX, MacOS, Windows, MySQL, PostgreSQL, SQL
 - **Tools and APIs**: Git, GitHub, Vim, GDB, GCP, Jenkins, Android NDK, numpy, Matplotlib, Pandas, ReactJs
 - **Skills**: Algorithms, Data Structure, Thread Programming, Concurrency Programming, Multi-Threading, System Optimization, Memory Management
