@@ -14,7 +14,9 @@ I'm Ethan, a passionate and dedicated software engineer specializing in systems 
 
 My work on projects like cache replacement policies, thread management systems, and optimizing data structures for operating system components has been recognized for its innovation and impact on system efficiency. I'm also proud of my contributions to open-source projects, where I've applied my expertise to tackle complex challenges in system performance and reliability.
 
-
+- **egos-2000**: [egos-2000](https://github.com/EthanCornell/egos-2000)
+- **Cache Replacement Policies**: [Cache Replacement Policies](https://github.com/EthanCornell/Cache-replacement-policies)
+- **GitHub**: [EthanCornell](https://github.com/EthanCornell)
 
 ## 📫 Get in Touch
 
@@ -22,7 +24,7 @@ I'm always open to collaborating on projects and sharing knowledge with fellow d
 
 - **Email**: ethan.huang.ih@gmail.com
 - **LinkedIn**: [ethanhuang-ih](https://www.linkedin.com/in/ethanhuang-ih)
-- **GitHub**: [EthanCornell](https://github.com/EthanCornell)
+- **C/C++ Data Structures and Algorithms**: [C/C++ Data Structures and Algorithms](https://github.com/EthanCornell/DSAlib)
 
 Let's connect and build something amazing together!
 
