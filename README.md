@@ -16,7 +16,8 @@ My work on projects like cache replacement policies, thread management systems, 
 
 - **egos-2000**: [egos-2000](https://github.com/EthanCornell/egos-2000)
 - **Cache Replacement Policies**: [Cache Replacement Policies](https://github.com/EthanCornell/Cache-replacement-policies)
-- **GitHub**: [EthanCornell](https://github.com/EthanCornell)
+- **C/C++ Data Structures and Algorithms**: [C/C++ Data Structures and Algorithms](https://github.com/EthanCornell/DSAlib)
+
 
 ## 📫 Get in Touch
 
@@ -24,7 +25,8 @@ I'm always open to collaborating on projects and sharing knowledge with fellow d
 
 - **Email**: ethan.huang.ih@gmail.com
 - **LinkedIn**: [ethanhuang-ih](https://www.linkedin.com/in/ethanhuang-ih)
-- **C/C++ Data Structures and Algorithms**: [C/C++ Data Structures and Algorithms](https://github.com/EthanCornell/DSAlib)
+- **GitHub**: [EthanCornell](https://github.com/EthanCornell)
+
 
 Let's connect and build something amazing together!
 
