@@ -18,6 +18,7 @@ My work on projects like cache replacement policies, thread management systems, 
 - **Cache Research**: [Cache Replacement Policies](https://github.com/EthanCornell/Cache-replacement-policies)
 - **Data Structure and Algorithm Optimization Research**: [C/C++ Data Structures and Algorithms](https://github.com/EthanCornell/DSAlib)
 - **Distributed System Research**: [Gossip Protocal](https://github.com/EthanCornell/Gossip-protocol), [Distributed Filesystem](https://github.com/EthanCornell/Distrbuted-Filesystem), [Concurrent Webserver](https://github.com/EthanCornell/Concurrent-webserver), [MapReduce](https://github.com/EthanCornell/MapReduce)
+- **Parallel Computing Research**:
 
 
 ## 📫 Get in Touch
