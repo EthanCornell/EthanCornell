@@ -24,6 +24,8 @@ My work on projects like cache replacement policies, thread management systems, 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ethancornell&show_icons=true&theme=transparent)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethancornell&hide=javascript,html,scss&layout=donut)
 
+
+
 ## 📫 Get in Touch
 
 I'm always open to collaborating on projects and sharing knowledge with fellow developers. Feel free to reach out to me:
@@ -50,4 +52,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ethancornell&repo=Gossip-protocol)](https://github.com/anuraghazra/github-readme-stats)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ethancornell&repo=MapReduce)](https://github.com/anuraghazra/github-readme-stats)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ethancornell&repo=Gossip-protocol)](https://github.com/anuraghazra/github-readme-stats)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ethancornell&repo=Gossip-protocol)](https://github.com/anuraghazra/github-readme-stats)
 -->
