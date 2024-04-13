@@ -21,6 +21,9 @@ My work on projects like cache replacement policies, thread management systems, 
 - **Parallel Computing Research**: [Parallel Computing](https://github.com/EthanCornell/Parallel-Computing), [A Simple CUDA Renderer](https://github.com/EthanCornell/CUDA-Renderer)
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ethancornell&show_icons=true&theme=transparent)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethancornell&hide=javascript,html,scss&layout=donut)
+
 ## 📫 Get in Touch
 
 I'm always open to collaborating on projects and sharing knowledge with fellow developers. Feel free to reach out to me:
@@ -30,7 +33,9 @@ I'm always open to collaborating on projects and sharing knowledge with fellow d
 - **GitHub**: [EthanCornell](https://github.com/EthanCornell)
 
 
+
 Let's connect and build something amazing together!
+
 
 <!--
 **EthanCornell/EthanCornell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
