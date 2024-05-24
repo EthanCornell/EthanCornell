@@ -17,7 +17,7 @@ My work on projects like cache replacement policies, thread management systems, 
 - **OS Research**: [egos-2000](https://github.com/EthanCornell/egos-2000), [Netgraph](https://github.com/EthanCornell/Netgraph)
 - **Cache Research**: [Cache Replacement Policies](https://github.com/EthanCornell/Cache-replacement-policies)
 - **Data Structure and Algorithm Optimization Research**: [C/C++ Data Structures and Algorithms](https://github.com/EthanCornell/DSAlib)
-- **Distributed System Research**: [Distributed System](https://github.com/EthanCornell/Distributed-System), [Gossip Protocal](https://github.com/EthanCornell/Gossip-protocol), [Distributed Filesystem](https://github.com/EthanCornell/Distrbuted-Filesystem), [Concurrent Webserver](https://github.com/EthanCornell/Concurrent-webserver), [MapReduce](https://github.com/EthanCornell/MapReduce), [Key/Value Server]()
+- **Distributed System Research**: [Distributed System](https://github.com/EthanCornell/Distributed-System), [Gossip Protocal](https://github.com/EthanCornell/Gossip-protocol), [Distributed Filesystem](https://github.com/EthanCornell/Distrbuted-Filesystem), [Concurrent Webserver](https://github.com/EthanCornell/Concurrent-webserver), [MapReduce](https://github.com/EthanCornell/MapReduce), [Key/Value Server](), [Raft](https://github.com/EthanCornell/Distributed-Raft-based-Chat-Server)
 - **Concurrent programming/Parallel Computing Research**: [Parallel Computing](https://github.com/EthanCornell/Parallel-Computing), [A Simple CUDA Renderer](https://github.com/EthanCornell/CUDA-Renderer), [Netgraph](https://github.com/EthanCornell/Netgraph)
 
 
