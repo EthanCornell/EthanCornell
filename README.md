@@ -14,11 +14,29 @@ I'm Ethan, a passionate and dedicated software engineer specializing in systems 
 
 My work on projects like cache replacement policies, thread management systems, and optimizing data structures for operating system components has been recognized for its innovation and impact on system efficiency. I'm also proud of my contributions to open-source projects, where I've applied my expertise to tackle complex challenges in system performance and reliability.
 
-- **OS Research**: [egos-2000](https://github.com/EthanCornell/egos-2000), [Netgraph](https://github.com/EthanCornell/Netgraph)
-- **Cache Research**: [Cache Replacement Policies](https://github.com/EthanCornell/Cache-replacement-policies)
-- **Data Structure and Algorithm Optimization Research**: [C/C++ Data Structures and Algorithms](https://github.com/EthanCornell/DSAlib)
-- **Distributed System Research**: [Distributed System](https://github.com/EthanCornell/Distributed-System), [Gossip Protocal](https://github.com/EthanCornell/Gossip-protocol), [Distributed Filesystem](https://github.com/EthanCornell/Distrbuted-Filesystem), [Concurrent Webserver](https://github.com/EthanCornell/Concurrent-webserver), [MapReduce](https://github.com/EthanCornell/MapReduce), [Key/Value Server](), [Raft](https://github.com/EthanCornell/Distributed-Raft-based-Chat-Server)
-- **Concurrent Programming/Parallel Computing Research**: [Parallel Computing](https://github.com/EthanCornell/Parallel-Computing), [A Simple CUDA Renderer](https://github.com/EthanCornell/CUDA-Renderer), [Netgraph](https://github.com/EthanCornell/Netgraph)
+### OS Research
+- [egos-2000](https://github.com/EthanCornell/egos-2000): A minimal operating system (2K LOC) on QEMU and a RISC-V board
+- [Netgraph](https://github.com/EthanCornell/Netgraph)
+
+### Cache Research
+- [Cache Replacement Policies](https://github.com/EthanCornell/Cache-replacement-policies): Cache replacement policies in C
+
+### Data Structure and Algorithm Optimization Research
+- [C/C++ Data Structures and Algorithms](https://github.com/EthanCornell/DSAlib): C/C++ Data Structures and Algorithms
+
+### Distributed System Research
+- [Distributed System](https://github.com/EthanCornell/Distributed-System): Explore collaborative, scalable solutions for networked applications
+- [Gossip Protocol](https://github.com/EthanCornell/Gossip-protocol)
+- [Distributed Filesystem](https://github.com/EthanCornell/Distrbuted-Filesystem)
+- [Concurrent Webserver](https://github.com/EthanCornell/Concurrent-webserver)
+- [MapReduce](https://github.com/EthanCornell/MapReduce)
+- [Key/Value Server]()
+- [Raft](https://github.com/EthanCornell/Distributed-Raft-based-Chat-Server)
+
+### Concurrent Programming/Parallel Computing Research
+- [Parallel Computing](https://github.com/EthanCornell/Parallel-Computing): Explore projects focusing on leveraging multiple processors or computers to perform computations simultaneously, improving efficiency and scalability in various applications
+- [A Simple CUDA Renderer](https://github.com/EthanCornell/CUDA-Renderer)
+- [Netgraph](https://github.com/EthanCornell/Netgraph)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ethancornell&show_icons=true&theme=transparent)
