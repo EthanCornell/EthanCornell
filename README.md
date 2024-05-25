@@ -15,32 +15,31 @@ I'm Ethan, a passionate and dedicated software engineer specializing in systems 
 My work on projects like cache replacement policies, thread management systems, and optimizing data structures for operating system components has been recognized for its innovation and impact on system efficiency. I'm also proud of my contributions to open-source projects, where I've applied my expertise to tackle complex challenges in system performance and reliability.
 
 ### OS Research
-- [egos-2000](https://github.com/EthanCornell/egos-2000): A minimal operating system (2K LOC) on QEMU and a RISC-V board
-- [Netgraph](https://github.com/EthanCornell/Netgraph)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EthanCornell&repo=egos-2000)](https://github.com/EthanCornell/egos-2000)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EthanCornell&repo=Netgraph)](https://github.com/EthanCornell/Netgraph)
 
 ### Cache Research
-- [Cache Replacement Policies](https://github.com/EthanCornell/Cache-replacement-policies): Cache replacement policies in C
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EthanCornell&repo=Cache-replacement-policies)](https://github.com/EthanCornell/Cache-replacement-policies)
 
 ### Data Structure and Algorithm Optimization Research
-- [C/C++ Data Structures and Algorithms](https://github.com/EthanCornell/DSAlib): C/C++ Data Structures and Algorithms
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EthanCornell&repo=DSAlib)](https://github.com/EthanCornell/DSAlib)
 
 ### Distributed System Research
-- [Distributed System](https://github.com/EthanCornell/Distributed-System): Explore collaborative, scalable solutions for networked applications
-- [Gossip Protocol](https://github.com/EthanCornell/Gossip-protocol)
-- [Distributed Filesystem](https://github.com/EthanCornell/Distrbuted-Filesystem)
-- [Concurrent Webserver](https://github.com/EthanCornell/Concurrent-webserver)
-- [MapReduce](https://github.com/EthanCornell/MapReduce)
-- [Key/Value Server]()
-- [Raft](https://github.com/EthanCornell/Distributed-Raft-based-Chat-Server)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EthanCornell&repo=Distributed-System)](https://github.com/EthanCornell/Distributed-System)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EthanCornell&repo=Distrbuted-Filesystem)](https://github.com/EthanCornell/Distrbuted-Filesystem)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EthanCornell&repo=Gossip-protocol)](https://github.com/EthanCornell/Gossip-protocol)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EthanCornell&repo=Concurrent-webserver)](https://github.com/EthanCornell/Concurrent-webserver)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EthanCornell&repo=MapReduce)](https://github.com/EthanCornell/MapReduce)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EthanCornell&repo=Distributed-Raft-based-Chat-Server)](https://github.com/EthanCornell/Distributed-Raft-based-Chat-Server)
 
 ### Concurrent Programming/Parallel Computing Research
-- [Parallel Computing](https://github.com/EthanCornell/Parallel-Computing): Explore projects focusing on leveraging multiple processors or computers to perform computations simultaneously, improving efficiency and scalability in various applications
-- [A Simple CUDA Renderer](https://github.com/EthanCornell/CUDA-Renderer)
-- [Netgraph](https://github.com/EthanCornell/Netgraph)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EthanCornell&repo=CUDA-Renderer)](https://github.com/EthanCornell/CUDA-Renderer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EthanCornell&repo=Netgraph)](https://github.com/EthanCornell/Netgraph)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EthanCornell&repo=Parallel-Computing)](https://github.com/EthanCornell/Parallel-Computing)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ethancornell&show_icons=true&theme=transparent)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethancornell&hide=javascript,html,scss&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethancornell&hide=javascript,html,scss&layout=donut)
 
 
 
@@ -75,4 +74,28 @@ Here are some ideas to get you started:
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ethancornell&repo=MapReduce)](https://github.com/anuraghazra/github-readme-stats)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ethancornell&repo=Gossip-protocol)](https://github.com/anuraghazra/github-readme-stats)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ethancornell&repo=Gossip-protocol)](https://github.com/anuraghazra/github-readme-stats)
+
+ ### OS Research
+- [egos-2000](https://github.com/EthanCornell/egos-2000): A minimal operating system (2K LOC) on QEMU and a RISC-V board
+- [Netgraph](https://github.com/EthanCornell/Netgraph)
+
+### Cache Research
+- [Cache Replacement Policies](https://github.com/EthanCornell/Cache-replacement-policies): Cache replacement policies in C
+
+### Data Structure and Algorithm Optimization Research
+- [C/C++ Data Structures and Algorithms](https://github.com/EthanCornell/DSAlib): C/C++ Data Structures and Algorithms
+
+### Distributed System Research
+
+- [Gossip Protocol](https://github.com/EthanCornell/Gossip-protocol)
+- [Distributed Filesystem](https://github.com/EthanCornell/Distrbuted-Filesystem)
+- [Concurrent Webserver](https://github.com/EthanCornell/Concurrent-webserver)
+- [MapReduce](https://github.com/EthanCornell/MapReduce)
+- [Key/Value Server]()
+- [Raft](https://github.com/EthanCornell/Distributed-Raft-based-Chat-Server)
+
+### Concurrent Programming/Parallel Computing Research
+- [Parallel Computing](https://github.com/EthanCornell/Parallel-Computing): Explore projects focusing on leveraging multiple processors or computers to perform computations simultaneously, improving efficiency and scalability in various applications
+- [A Simple CUDA Renderer](https://github.com/EthanCornell/CUDA-Renderer)
+- [Netgraph](https://github.com/EthanCornell/Netgraph)
 -->
