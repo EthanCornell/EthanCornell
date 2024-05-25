@@ -38,8 +38,8 @@ My work on projects like cache replacement policies, thread management systems, 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EthanCornell&repo=Parallel-Computing)](https://github.com/EthanCornell/Parallel-Computing)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ethancornell&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethancornell&hide=javascript,html,scss&layout=donut)
+ ### Most Used Languages 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethancornell&hide=javascript,html,scss&layout=donut)
 
 
 
@@ -50,8 +50,6 @@ I'm always open to collaborating on projects and sharing knowledge with fellow d
 - **Email**:  ihh@FreeBSD.org / ethan.huang.ih@gmail.com
 - **LinkedIn**: [ethanhuang-ih](https://www.linkedin.com/in/ethanhuang-ih)
 - **GitHub**: [EthanCornell](https://github.com/EthanCornell)
-
-
 
 Let's connect and build something amazing together!
 
@@ -74,7 +72,7 @@ Here are some ideas to get you started:
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ethancornell&repo=MapReduce)](https://github.com/anuraghazra/github-readme-stats)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ethancornell&repo=Gossip-protocol)](https://github.com/anuraghazra/github-readme-stats)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ethancornell&repo=Gossip-protocol)](https://github.com/anuraghazra/github-readme-stats)
-
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ethancornell&show_icons=true&theme=transparent)
  ### OS Research
 - [egos-2000](https://github.com/EthanCornell/egos-2000): A minimal operating system (2K LOC) on QEMU and a RISC-V board
 - [Netgraph](https://github.com/EthanCornell/Netgraph)
