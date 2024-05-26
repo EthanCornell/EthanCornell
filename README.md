@@ -1,7 +1,7 @@
 ### 👋 Hi there! I'm Ethan Huang
-I'm Ethan, a dedicated software engineer specializing in systems optimization, memory management, and software development. I hold a Master of Engineering in Computer Science from Cornell University, with expertise in cache management, multi-threading, and performance optimization.
+I'm Ethan, a dedicated software engineer specializing in systems optimization, memory management, concurrency programming, thread programming, parallel programming, and distributed system. I hold a Master of Engineering in Computer Science from Cornell University, with expertise in cache management, multi-threading, and performance optimization.
 
-- 🔭 I’m currently working on OS/Concurrency Programming/Thread Programming/Parallel Programming
+- 🔭 I’m currently working on OS/Concurrency Programming/Thread Programming/Parallel Programming/Distributed System
 
 ## 🛠 Technical Proficiencies
 
