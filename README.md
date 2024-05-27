@@ -47,7 +47,7 @@ My work on projects like cache replacement policies, thread management systems, 
 
 I'm always open to collaborating on projects and sharing knowledge with fellow developers. Feel free to reach out to me:
 
-- **Email**:  ihh@FreeBSD.org / ethan.huang.ih@gmail.com
+- **Email**:  ethan.huang.ih@gmail.com
 - **LinkedIn**: [ethanhuang-ih](https://www.linkedin.com/in/ethanhuang-ih)
 - **GitHub**: [EthanCornell](https://github.com/EthanCornell)
 
