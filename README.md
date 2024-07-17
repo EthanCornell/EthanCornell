@@ -15,26 +15,26 @@ I'm Ethan, a dedicated software engineer specializing in systems optimization, m
 My work on projects like cache replacement policies, thread management systems, and optimizing data structures for operating system components has been recognized for its innovation and impact on system efficiency. I'm also proud of my contributions to open-source projects, where I've applied my expertise to tackle complex challenges in system performance and reliability.
 
 #### OS Research
-- **egos-2000**: [egos-2000](https://github.com/EthanCornell/egos-2000)
-- **Netgraph**: [Netgraph](https://github.com/EthanCornell/Netgraph)
+- **[egos-2000](https://github.com/EthanCornell/egos-2000)**
+- **[Netgraph](https://github.com/EthanCornell/Netgraph)**
 
 #### Cache Research
-- **Cache Replacement Policies**: [Cache Replacement Policies](https://github.com/EthanCornell/Cache-replacement-policies)
+- **[Cache Replacement Policies](https://github.com/EthanCornell/Cache-replacement-policies)**
 
 #### Data Structure and Algorithm Optimization Research
-- **DSAlib**: [DSAlib](https://github.com/EthanCornell/DSAlib)
+- **[DSAlib](https://github.com/EthanCornell/DSAlib)**
 
 #### Distributed System Research
-- **Distributed System**: [Distributed System](https://github.com/EthanCornell/Distributed-System)
-- **Distributed Filesystem**: [Distributed Filesystem](https://github.com/EthanCornell/Distrbuted-Filesystem)
-- **Gossip Protocol**: [Gossip Protocol](https://github.com/EthanCornell/Gossip-protocol)
-- **Concurrent Webserver**: [Concurrent Webserver](https://github.com/EthanCornell/Concurrent-webserver)
-- **MapReduce**: [MapReduce](https://github.com/EthanCornell/MapReduce)
-- **Distributed Raft-based Chat Server**: [Distributed Raft-based Chat Server](https://github.com/EthanCornell/Distributed-Raft-based-Chat-Server)
-
+- **[Distributed System](https://github.com/EthanCornell/Distributed-System)**
+- **[Distributed Filesystem](https://github.com/EthanCornell/Distrbuted-Filesystem)**
+- **[Gossip Protocol](https://github.com/EthanCornell/Gossip-protocol)**
+- **[Concurrent Webserver](https://github.com/EthanCornell/Concurrent-webserver)**
+- **[MapReduce](https://github.com/EthanCornell/MapReduce)**
+- **[Distributed Raft-based Chat Server](https://github.com/EthanCornell/Distributed-Raft-based-Chat-Server)**
+ 
 #### Concurrent Programming/Parallel Computing Research
-- **CUDA Renderer**: [CUDA Renderer](https://github.com/EthanCornell/CUDA-Renderer)
-- **Parallel Computing**: [Parallel Computing](https://github.com/EthanCornell/Parallel-Computing)
+- **[CUDA Renderer](https://github.com/EthanCornell/CUDA-Renderer)**: 
+- **[Parallel Computing](https://github.com/EthanCornell/Parallel-Computing)** 
 
  ### Most Used Languages 
  C/C++
