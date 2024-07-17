@@ -14,32 +14,31 @@ I'm Ethan, a dedicated software engineer specializing in systems optimization, m
 
 My work on projects like cache replacement policies, thread management systems, and optimizing data structures for operating system components has been recognized for its innovation and impact on system efficiency. I'm also proud of my contributions to open-source projects, where I've applied my expertise to tackle complex challenges in system performance and reliability.
 
-### OS Research
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EthanCornell&repo=egos-2000)](https://github.com/EthanCornell/egos-2000)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EthanCornell&repo=Netgraph)](https://github.com/EthanCornell/Netgraph)
+#### OS Research
+- **egos-2000**: [egos-2000](https://github.com/EthanCornell/egos-2000)
+- **Netgraph**: [Netgraph](https://github.com/EthanCornell/Netgraph)
 
-### Cache Research
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EthanCornell&repo=Cache-replacement-policies)](https://github.com/EthanCornell/Cache-replacement-policies)
+#### Cache Research
+- **Cache Replacement Policies**: [Cache Replacement Policies](https://github.com/EthanCornell/Cache-replacement-policies)
 
-### Data Structure and Algorithm Optimization Research
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EthanCornell&repo=DSAlib)](https://github.com/EthanCornell/DSAlib)
+#### Data Structure and Algorithm Optimization Research
+- **DSAlib**: [DSAlib](https://github.com/EthanCornell/DSAlib)
 
-### Distributed System Research
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EthanCornell&repo=Distributed-System)](https://github.com/EthanCornell/Distributed-System)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EthanCornell&repo=Distrbuted-Filesystem)](https://github.com/EthanCornell/Distrbuted-Filesystem)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EthanCornell&repo=Gossip-protocol)](https://github.com/EthanCornell/Gossip-protocol)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EthanCornell&repo=Concurrent-webserver)](https://github.com/EthanCornell/Concurrent-webserver)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EthanCornell&repo=MapReduce)](https://github.com/EthanCornell/MapReduce)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EthanCornell&repo=Distributed-Raft-based-Chat-Server)](https://github.com/EthanCornell/Distributed-Raft-based-Chat-Server)
+#### Distributed System Research
+- **Distributed System**: [Distributed System](https://github.com/EthanCornell/Distributed-System)
+- **Distributed Filesystem**: [Distributed Filesystem](https://github.com/EthanCornell/Distrbuted-Filesystem)
+- **Gossip Protocol**: [Gossip Protocol](https://github.com/EthanCornell/Gossip-protocol)
+- **Concurrent Webserver**: [Concurrent Webserver](https://github.com/EthanCornell/Concurrent-webserver)
+- **MapReduce**: [MapReduce](https://github.com/EthanCornell/MapReduce)
+- **Distributed Raft-based Chat Server**: [Distributed Raft-based Chat Server](https://github.com/EthanCornell/Distributed-Raft-based-Chat-Server)
 
-### Concurrent Programming/Parallel Computing Research
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EthanCornell&repo=CUDA-Renderer)](https://github.com/EthanCornell/CUDA-Renderer)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EthanCornell&repo=Netgraph)](https://github.com/EthanCornell/Netgraph)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EthanCornell&repo=Parallel-Computing)](https://github.com/EthanCornell/Parallel-Computing)
-
+#### Concurrent Programming/Parallel Computing Research
+- **CUDA Renderer**: [CUDA Renderer](https://github.com/EthanCornell/CUDA-Renderer)
+- **Parallel Computing**: [Parallel Computing](https://github.com/EthanCornell/Parallel-Computing)
 
  ### Most Used Languages 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethancornell&hide=javascript,html,scss&layout=donut)
+ C/C++
+ <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethancornell&hide=javascript,html,scss&layout=donut) -->
 
 
 
