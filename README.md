@@ -31,7 +31,8 @@ My work on projects like cache replacement policies, thread management systems, 
 - **[Concurrent Webserver](https://github.com/EthanCornell/Concurrent-webserver)**
 - **[MapReduce](https://github.com/EthanCornell/MapReduce)**
 - **[Distributed Raft-based Chat Server](https://github.com/EthanCornell/Distributed-Raft-based-Chat-Server)**
- 
+- **[Distributed Word Count System](https://github.com/EthanCornell/Distributed-Word-Count-System/tree/future)**
+  
 #### Concurrent Programming/Parallel Computing Research
 - **[CUDA Renderer](https://github.com/EthanCornell/CUDA-Renderer)**: 
 - **[Parallel Computing](https://github.com/EthanCornell/Parallel-Computing)** 
