@@ -73,7 +73,12 @@ I'm always open to collaborating on projects and sharing knowledge with fellow d
 
 Let's connect and build something amazing together!
 
+---
+### ⚡ Fun fact
 
+- 🏍️ I'm a passionate motorcyclist.
+- 🏍️ I've owned more than 20 motorcycles.
+- 🌍 I've ridden across more than 20 cities!
 <!--
 **EthanCornell/EthanCornell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
