@@ -1,16 +1,35 @@
-### 👋 Hi there! I'm Ethan Huang
-I'm Ethan, a software engineer focused on optimizing runtime performance, specializing in systems optimization, memory management, concurrency, and parallel programming. With a Master of Engineering in Computer Science from Cornell University, I bring expertise in cache management, multi-threading, and performance enhancement across distributed systems.
+<h1 align="center">👋 Hi there! I'm Ethan Huang</h1>
 
-- 🔭 I’m currently working on OS/Concurrency Programming/Thread Programming/Parallel Programming/Distributed System
+<p align="center">
+  ⚡<em>Software Engineer | Systems Optimization Enthusiast | Performance Tuner</em>🚀
+</p>
 
-## 🛠 Technical Proficiencies
+---
+
+### 🛠 About Me
+- 💻 **Software engineer** focused on optimizing **runtime performance**  
+- ⚙️ Specialize in **systems optimization**, **memory management**, **concurrency**, and **parallel programming**  
+- 🚀 Expertise in **cache management**, **multi-threading**, and **performance enhancement** in **distributed systems**
+- 🎓 **Master of Engineering in Computer Science** from **Cornell University**  
+
+---
+
+### 🔭 What I'm Currently Working On
+- 🛠 **Operating Systems**, **Concurrency Programming**, **Thread Programming**
+- ⚡ **Parallel Programming** and **Distributed Systems**  
+
+---
+
+### 🛠 Technical Proficiencies
 
 - **Languages**: C++11/17, C, Python, Java, Shell Script
 - **Systems and Databases**: Linux, FreeBSD, UNIX, MacOS, Windows, MySQL, PostgreSQL, SQL
 - **Tools and APIs**: Git, GitHub, Vim, GDB, Valgrind, gprof, GCP, Vim, STL, OpenMP, OpenMPI, PyTorch, GCP, Jenkins, Android NDK, numpy, Matplotlib, Pandas, ReactJs
 - **Skills**: Algorithms, Data Structure, Thread Programming, Concurrency Programming, Parallel Programming, Multi-Threading, System Optimization, Memory Management
 
-## 📚 Projects and Contributions
+
+---
+### 📚 Projects and Contributions
 
 My work on projects like cache replacement policies, thread management systems, and optimizing data structures for operating system components has been recognized for its innovation and impact on system efficiency. I'm also proud of my contributions to open-source projects, where I've applied my expertise to tackle complex challenges in system performance and reliability.
 
@@ -42,8 +61,9 @@ My work on projects like cache replacement policies, thread management systems, 
  <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethancornell&hide=javascript,html,scss&layout=donut) -->
 
 
+---
 
-## 📫 Get in Touch
+### 📫 Get in Touch
 
 I'm always open to collaborating on projects and sharing knowledge with fellow developers. Feel free to reach out to me:
 
