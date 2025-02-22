@@ -53,7 +53,7 @@ My work on projects like cache replacement policies, thread management systems, 
 - **[Distributed Word Count System](https://github.com/EthanCornell/Distributed-Word-Count-System/tree/future)**
   
 #### Concurrent Programming/Parallel Computing Research
-- **[CUDA Renderer](https://github.com/EthanCornell/CUDA-Renderer)**: 
+- **[CUDA Renderer](https://github.com/EthanCornell/CUDA-Renderer)** 
 - **[Parallel Computing](https://github.com/EthanCornell/Parallel-Computing)** 
 
 #### Full-Stack Development
@@ -61,7 +61,7 @@ My work on projects like cache replacement policies, thread management systems, 
 
 
  ### Most Used Languages 
- C/C++
+ C/C++/Python
  <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethancornell&hide=javascript,html,scss&layout=donut) -->
 
 
