@@ -56,6 +56,10 @@ My work on projects like cache replacement policies, thread management systems, 
 - **[CUDA Renderer](https://github.com/EthanCornell/CUDA-Renderer)**: 
 - **[Parallel Computing](https://github.com/EthanCornell/Parallel-Computing)** 
 
+#### Full-Stack Development
+- **[MiniProject](https://github.com/EthanCornell/mini-project)**: A GraphQL-based full-stack application integrating Go (backend), Vue.js (frontend), and MongoDB (database) using Docker for containerized deployment.
+
+
  ### Most Used Languages 
  C/C++
  <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethancornell&hide=javascript,html,scss&layout=donut) -->
