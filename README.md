@@ -61,10 +61,10 @@ My work on projects like cache replacement policies, thread management systems, 
 
 
  ### Most Used Languages 
- C/C++/Python
+ 
  <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethancornell&hide=javascript,html,scss&layout=donut) -->
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethancornell&hide=javascript,html,scss,terra,perl,raku,roff&layout=donut-vertical)](https://github.com/ethanCornell)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethancornell&hide=javascript,html,scss,terra,perl&layout=compact) -->
 ---
 
 ### 📫 Get in Touch
@@ -126,3 +126,5 @@ Here are some ideas to get you started:
 - [A Simple CUDA Renderer](https://github.com/EthanCornell/CUDA-Renderer)
 - [Netgraph](https://github.com/EthanCornell/Netgraph)
 -->
+
+
