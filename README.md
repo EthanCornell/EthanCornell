@@ -36,6 +36,7 @@ My work on projects like cache replacement policies, thread management systems, 
 #### OS Research
 - **[egos-2000](https://github.com/EthanCornell/egos-2000)**
 - **[Netgraph](https://github.com/EthanCornell/Netgraph)**
+- **[mini-migration](https://github.com/EthanCornell/mini-migration/tree/main)**
 
 #### Cache Research
 - **[Cache Replacement Policies](https://github.com/EthanCornell/Cache-replacement-policies)**
