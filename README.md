@@ -34,7 +34,7 @@
 My work on projects like cache replacement policies, thread management systems, and optimizing data structures for operating system components has been recognized for its innovation and impact on system efficiency. I'm also proud of my contributions to open-source projects, where I've applied my expertise to tackle complex challenges in system performance and reliability.
 
 #### OS Research
-- **[egos-2000](https://github.com/EthanCornell/egos-2000)**
+- **[egos-2000](https://github.com/EthanCornell/egos-2000)**: A minimal operating system (2K LOC) on QEMU and a RISC-V board
 - **[Netgraph](https://github.com/EthanCornell/Netgraph)**
 - **[mini-migration](https://github.com/EthanCornell/mini-migration/tree/main)**
 
