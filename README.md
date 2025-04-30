@@ -46,7 +46,7 @@ My work on projects like cache replacement policies, thread management systems, 
 
 #### Distributed System Research
 - **[Distributed System](https://github.com/EthanCornell/Distributed-System)**
-- **[Distributed Filesystem](https://github.com/EthanCornell/Distrbuted-Filesystem)**
+- **[Distributed Filesystem](https://github.com/EthanCornell/Distrbuted-Filesystem)**: The project showcases the creation of a distributed filesystem using the C programming language.
 - **[Gossip Protocol](https://github.com/EthanCornell/Gossip-protocol)**
 - **[Concurrent Webserver](https://github.com/EthanCornell/Concurrent-webserver)**
 - **[MapReduce](https://github.com/EthanCornell/MapReduce)**
