@@ -39,7 +39,7 @@ My work on projects like cache replacement policies, thread management systems, 
 - **[mini-migration](https://github.com/EthanCornell/mini-migration/tree/main)**: Mini-Migration is a Cross-platform resumable file-transfer tool. C++17 core, Objective-C++ macOS layer; built for Apple Backup & Migration workflows.
 
 #### Cache Research
-- **[Cache Replacement Policies](https://github.com/EthanCornell/Cache-replacement-policies)**
+- **[Cache Replacement Policies](https://github.com/EthanCornell/Cache-replacement-policies)**: This repository contains a comprehensive implementation of various cache replacement algorithms written in C.
 
 #### Data Structure and Algorithm Optimization Research
 - **[DSAlib](https://github.com/EthanCornell/DSAlib)**
