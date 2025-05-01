@@ -43,6 +43,7 @@ My work on projects like cache replacement policies, thread management systems, 
 
 #### Data Structure and Algorithm Optimization Research
 - **[DSAlib](https://github.com/EthanCornell/DSAlib)**
+- **[HazardLFQ](https://github.com/EthanCornell/HazardLFQ)**:  A header-only, hazard-pointer–protected, lock-free queue for C++20
 
 #### Distributed System Research
 - **[Distributed System](https://github.com/EthanCornell/Distributed-System)**
@@ -56,7 +57,8 @@ My work on projects like cache replacement policies, thread management systems, 
 #### Concurrent Programming/Parallel Computing Research
 - **[CUDA Renderer](https://github.com/EthanCornell/CUDA-Renderer)** 
 - **[Parallel Computing](https://github.com/EthanCornell/Parallel-Computing)** 
-
+- **[HazardLFQ](https://github.com/EthanCornell/HazardLFQ)**:  A header-only, hazard-pointer–protected, lock-free queue for C++20
+  
 #### Full-Stack Development
 - **[MiniProject](https://github.com/EthanCornell/mini-project)**: A GraphQL-based full-stack application integrating Go (backend), Vue.js (frontend), and MongoDB (database) using Docker for containerized deployment.
 
