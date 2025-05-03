@@ -55,7 +55,7 @@ My work on projects like cache replacement policies, thread management systems, 
 - **[Distributed Word Count System](https://github.com/EthanCornell/Distributed-Word-Count-System/tree/future)**
   
 #### Concurrent Programming/Parallel Computing Research
-- **[CUDA Renderer](https://github.com/EthanCornell/CUDA-Renderer)** 
+- **[CUDA Renderer](https://github.com/EthanCornell/CUDA-Renderer)**: The project involves creating a parallel renderer in CUDA for drawing colored circles. 
 - **[Parallel Computing](https://github.com/EthanCornell/Parallel-Computing)** 
 - **[HazardLFQ(🚧 Work in Progress)](https://github.com/EthanCornell/HazardLFQ)**:  A header-only, hazard-pointer–protected, lock-free queue for C++20
 - **[MPI Travelling-Salesman Solver](https://github.com/EthanCornell/-MPI-Wandering-Salesman-Solver)**: Blazing-fast branch-and-bound TSP solver (≤ 18 cities) in single-file C using the MPI message-passing model.
