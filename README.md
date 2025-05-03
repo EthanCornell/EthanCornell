@@ -49,7 +49,7 @@ My work on projects like cache replacement policies, thread management systems, 
 - **[Distributed System](https://github.com/EthanCornell/Distributed-System)**
 - **[Distributed Filesystem](https://github.com/EthanCornell/Distrbuted-Filesystem)**: The project showcases the creation of a distributed filesystem using the C programming language.
 - **[Gossip Protocol](https://github.com/EthanCornell/Gossip-protocol)**
-- **[Concurrent Webserver](https://github.com/EthanCornell/Concurrent-webserver)**
+- **[Concurrent Webserver](https://github.com/EthanCornell/Concurrent-webserver)**: An implementation of a concurrent web server in C.
 - **[MapReduce](https://github.com/EthanCornell/MapReduce)**
 - **[Distributed Raft-based Chat Server](https://github.com/EthanCornell/Distributed-Raft-based-Chat-Server)**: This project implements a distributed chat server using the Raft consensus algorithm for leader election and log replication. It features a simple key-value state machine, handles client commands, and maintains consistency across multiple nodes. The server is built with C++ and utilizes socket programming for network communication.
 - **[Distributed Word Count System](https://github.com/EthanCornell/Distributed-Word-Count-System/tree/future)**
