@@ -43,7 +43,7 @@ My work on projects like cache replacement policies, thread management systems, 
 
 #### Data Structure and Algorithm Optimization Research
 - **[DSAlib](https://github.com/EthanCornell/DSAlib)**
-- **[HazardLFQ(🚧 Work in Progress)](https://github.com/EthanCornell/HazardLFQ)**:  A header-only, hazard-pointer–protected, lock-free queue for C++20
+- **[HazardLFQ](https://github.com/EthanCornell/HazardLFQ)**:  A header-only, hazard-pointer–protected, lock-free queue for C++20.  **Status:** `v0.3` (experimental) — marching toward `v0.5`, which will clear our ABA, use-after-free, and livelock stress-test suites.
 
 #### Distributed System Research
 - **[Distributed System](https://github.com/EthanCornell/Distributed-System)**
@@ -57,7 +57,7 @@ My work on projects like cache replacement policies, thread management systems, 
 #### Concurrent Programming/Parallel Computing Research
 - **[CUDA Renderer](https://github.com/EthanCornell/CUDA-Renderer)**: The project involves creating a parallel renderer in CUDA for drawing colored circles. 
 - **[Parallel Computing](https://github.com/EthanCornell/Parallel-Computing)** 
-- **[HazardLFQ(🚧 Work in Progress)](https://github.com/EthanCornell/HazardLFQ)**:  A header-only, hazard-pointer–protected, lock-free queue for C++20
+- **[HazardLFQ](https://github.com/EthanCornell/HazardLFQ)**:  A header-only, hazard-pointer–protected, lock-free queue for C++20.  **Status:** `v0.3` (experimental) — marching toward `v0.5`, which will clear our ABA, use-after-free, and livelock stress-test suites.
 - **[MPI Travelling-Salesman Solver](https://github.com/EthanCornell/-MPI-Wandering-Salesman-Solver)**: Blazing-fast branch-and-bound TSP solver (≤ 18 cities) in single-file C using the MPI message-passing model.
 - **[FlashNanoGPT(🚧 Work in Progress)](https://github.com/EthanCornell/FlashNanoGPT)**: A hands-on fork of NanoGPT with FlashAttention-2 CUDA kernels, INT8/INT4 GPTQ quantization, paged KV-cache reuse, and continuous batching, turning a tiny Shakespeare model into a full-speed GPU LLM inference demo.
   
