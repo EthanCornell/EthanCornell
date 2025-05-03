@@ -58,7 +58,7 @@ My work on projects like cache replacement policies, thread management systems, 
 - **[CUDA Renderer](https://github.com/EthanCornell/CUDA-Renderer)** 
 - **[Parallel Computing](https://github.com/EthanCornell/Parallel-Computing)** 
 - **[HazardLFQ(🚧 Work in Progress)](https://github.com/EthanCornell/HazardLFQ)**:  A header-only, hazard-pointer–protected, lock-free queue for C++20
-- **[MPI Travelling-Salesman Solver](https://github.com/EthanCornell/-MPI-Wandering-Salesman-Solver)**: Blazing-fast MPI branch-and-bound solver for ≤18-city Travelling-Salesman graphs
+- **[MPI Travelling-Salesman Solver](https://github.com/EthanCornell/-MPI-Wandering-Salesman-Solver)**: Blazing-fast branch-and-bound TSP solver (≤ 18 cities) in single-file C using the MPI message-passing model.
 - **[FlashNanoGPT(🚧 Work in Progress)](https://github.com/EthanCornell/FlashNanoGPT)**: A hands-on fork of NanoGPT with FlashAttention-2 CUDA kernels, INT8/INT4 GPTQ quantization, paged KV-cache reuse, and continuous batching, turning a tiny Shakespeare model into a full-speed GPU LLM inference demo.
   
 #### Full-Stack Development
