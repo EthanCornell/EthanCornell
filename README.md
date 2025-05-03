@@ -35,15 +35,15 @@ My work on projects like cache replacement policies, thread management systems, 
 
 #### OS Research
 - **[egos-2000](https://github.com/EthanCornell/egos-2000)**: A minimal operating system (2K LOC) on QEMU and a RISC-V board
-- **[Netgraph](https://github.com/EthanCornell/Netgraph)**
-- **[mini-migration](https://github.com/EthanCornell/mini-migration/tree/main)**: Mini-Migration is a Cross-platform resumable file-transfer tool. C++17 core, Objective-C++ macOS layer; built for Apple Backup & Migration workflows.
+- **[Netgraph(🚧 Work in Progress)](https://github.com/EthanCornell/Netgraph)**
+- **[mini-migration(🚧 Work in Progress)](https://github.com/EthanCornell/mini-migration/tree/main)**: Mini-Migration is a Cross-platform resumable file-transfer tool. C++17 core, Objective-C++ macOS layer; built for Apple Backup & Migration workflows.
 
 #### Cache Research
 - **[Cache Replacement Policies](https://github.com/EthanCornell/Cache-replacement-policies)**: This repository contains a comprehensive implementation of various cache replacement algorithms written in C.
 
 #### Data Structure and Algorithm Optimization Research
 - **[DSAlib](https://github.com/EthanCornell/DSAlib)**
-- **[HazardLFQ](https://github.com/EthanCornell/HazardLFQ)**:  A header-only, hazard-pointer–protected, lock-free queue for C++20
+- **[HazardLFQ(🚧 Work in Progress)](https://github.com/EthanCornell/HazardLFQ)**:  A header-only, hazard-pointer–protected, lock-free queue for C++20
 
 #### Distributed System Research
 - **[Distributed System](https://github.com/EthanCornell/Distributed-System)**
@@ -57,9 +57,9 @@ My work on projects like cache replacement policies, thread management systems, 
 #### Concurrent Programming/Parallel Computing Research
 - **[CUDA Renderer](https://github.com/EthanCornell/CUDA-Renderer)** 
 - **[Parallel Computing](https://github.com/EthanCornell/Parallel-Computing)** 
-- **[HazardLFQ](https://github.com/EthanCornell/HazardLFQ)**:  A header-only, hazard-pointer–protected, lock-free queue for C++20
+- **[HazardLFQ(🚧 Work in Progress)](https://github.com/EthanCornell/HazardLFQ)**:  A header-only, hazard-pointer–protected, lock-free queue for C++20
 - **[MPI Travelling-Salesman Solver](https://github.com/EthanCornell/-MPI-Wandering-Salesman-Solver)**: Blazing-fast MPI branch-and-bound solver for ≤18-city Travelling-Salesman graphs
-- **[FlashNanoGPT](https://github.com/EthanCornell/FlashNanoGPT)**: A hands-on fork of NanoGPT with FlashAttention-2 CUDA kernels, INT8/INT4 GPTQ quantization, paged KV-cache reuse, and continuous batching, turning a tiny Shakespeare model into a full-speed GPU LLM inference demo.
+- **[FlashNanoGPT(🚧 Work in Progress)](https://github.com/EthanCornell/FlashNanoGPT)**: A hands-on fork of NanoGPT with FlashAttention-2 CUDA kernels, INT8/INT4 GPTQ quantization, paged KV-cache reuse, and continuous batching, turning a tiny Shakespeare model into a full-speed GPU LLM inference demo.
   
 #### Full-Stack Development
 - **[MiniProject](https://github.com/EthanCornell/mini-project)**: A GraphQL-based full-stack application integrating Go (backend), Vue.js (frontend), and MongoDB (database) using Docker for containerized deployment.
