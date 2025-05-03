@@ -52,7 +52,7 @@ My work on projects like cache replacement policies, thread management systems, 
 - **[Concurrent Webserver](https://github.com/EthanCornell/Concurrent-webserver)**: An implementation of a concurrent web server in C.
 - **[MapReduce](https://github.com/EthanCornell/MapReduce)**
 - **[Distributed Raft-based Chat Server](https://github.com/EthanCornell/Distributed-Raft-based-Chat-Server)**: This project implements a distributed chat server using the Raft consensus algorithm for leader election and log replication. It features a simple key-value state machine, handles client commands, and maintains consistency across multiple nodes. The server is built with C++ and utilizes socket programming for network communication.
-- **[Distributed Word Count System](https://github.com/EthanCornell/Distributed-Word-Count-System/tree/future)**
+- **[Distributed Word Count System](https://github.com/EthanCornell/Distributed-Word-Count-System/tree/future)**: This project implements a distributed word count system using a client-server architecture.
   
 #### Concurrent Programming/Parallel Computing Research
 - **[CUDA Renderer](https://github.com/EthanCornell/CUDA-Renderer)**: The project involves creating a parallel renderer in CUDA for drawing colored circles. 
