@@ -36,7 +36,7 @@ My work on projects like cache replacement policies, thread management systems, 
 #### OS Research
 - **[egos-2000](https://github.com/EthanCornell/egos-2000)**: A minimal operating system (2K LOC) on QEMU and a RISC-V board
 - **[Netgraph Epochization for FreeBSD (🚧 Work in Progress)](https://github.com/EthanCornell/Netgraph)**:  Re-engineers the kernel’s Netgraph packet path to be lock-free with epoch-based reclamation, slashing contention and scaling cleanly across modern multi-core CPUs.
-- **[mini-migration(🚧 Work in Progress)](https://github.com/EthanCornell/mini-migration/tree/main)**: Mini-Migration is a Cross-platform resumable file-transfer tool. C++17 core, Objective-C++ macOS layer; built for Apple Backup & Migration workflows.
+- **[mini-migration](https://github.com/EthanCornell/mini-migration/tree/main)**: Mini-Migration is a Cross-platform resumable file-transfer tool. C++17 core, Objective-C++ macOS layer; built for Apple Backup & Migration workflows. **Status:** `v0.31` (feature-complete, frozen) → now targeting **v0.5**
 
 #### Cache Research
 - **[Cache Replacement Policies](https://github.com/EthanCornell/Cache-replacement-policies)**: This repository contains a comprehensive implementation of various cache replacement algorithms written in C.
