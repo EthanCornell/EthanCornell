@@ -59,7 +59,7 @@ My work on projects like cache replacement policies, thread management systems, 
 - **[Parallel Computing](https://github.com/EthanCornell/Parallel-Computing)** 
 - **[HazardLFQ](https://github.com/EthanCornell/HazardLFQ)**:  A header-only, hazard-pointer–protected, lock-free queue for C++20.  **Status:** `v0.3` (experimental) — marching toward `v0.5`, which will clear our ABA, use-after-free, and livelock stress-test suites.
 - **[MPI Travelling-Salesman Solver](https://github.com/EthanCornell/-MPI-Wandering-Salesman-Solver)**: Blazing-fast branch-and-bound TSP solver (≤ 18 cities) in single-file C using the MPI message-passing model.
-- **[FlashNanoGPT(🚧 Work in Progress)](https://github.com/EthanCornell/FlashNanoGPT)**: A hands-on fork of NanoGPT with FlashAttention-2 CUDA kernels, INT8/INT4 GPTQ quantization, paged KV-cache reuse, and continuous batching, turning a tiny Shakespeare model into a full-speed GPU LLM inference demo.
+- **[PicoGPT(🚧 Work in Progress)](https://github.com/EthanCornell/FlashNanoGPT)**: A hands-on fork of NanoGPT with FlashAttention-2 CUDA kernels, INT8/INT4 GPTQ quantization, paged KV-cache reuse, and continuous batching, turning a tiny Shakespeare model into a full-speed GPU LLM inference demo.
   
 #### Full-Stack Development
 - **[MiniProject](https://github.com/EthanCornell/mini-project)**: A GraphQL-based full-stack application integrating Go (backend), Vue.js (frontend), and MongoDB (database) using Docker for containerized deployment.
