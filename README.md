@@ -46,7 +46,6 @@ My work on projects like cache replacement policies, thread management systems, 
 - **[HazardLFQ](https://github.com/EthanCornell/HazardLFQ)**:  A header-only, hazard-pointer–protected, lock-free queue for C++20.  **Status:** `v0.3` (experimental) — marching toward `v0.5`, which will clear our ABA, use-after-free, and livelock stress-test suites.
 
 #### Distributed System Research
-- **[Distributed System](https://github.com/EthanCornell/Distributed-System)**
 - **[Distributed Filesystem](https://github.com/EthanCornell/Distrbuted-Filesystem)**: The project showcases the creation of a distributed filesystem using the C programming language.
 - **[Gossip Protocol](https://github.com/EthanCornell/Gossip-protocol)**: Gossip protocol implementation in C++
 - **[Concurrent Webserver](https://github.com/EthanCornell/Concurrent-webserver)**: An implementation of a concurrent web server in C.
@@ -54,7 +53,6 @@ My work on projects like cache replacement policies, thread management systems, 
 - **[Distributed Word Count System](https://github.com/EthanCornell/Distributed-Word-Count-System/tree/future)**: Distributed word-count on a client–server model: the client leverages an LRU cache, thread-pooled BFS and parallel file processing to gather word counts, then sends file lists over TCP to a server that runs an in-process MapReduce—OpenMP-accelerated mappers, two-stage mutex-protected reduction and a final aggregation.
   
 #### Concurrent Programming/Parallel Computing Research
-- **[Parallel Computing](https://github.com/EthanCornell/Parallel-Computing)** 
 - **[CUDA Renderer](https://github.com/EthanCornell/CUDA-Renderer)**: The project involves creating a parallel renderer in CUDA for drawing colored circles. 
 - **[HazardLFQ](https://github.com/EthanCornell/HazardLFQ)**:  A header-only, hazard-pointer–protected, lock-free queue for C++20.  **Status:** `v0.3` (experimental) — marching toward `v0.5`, which will clear our ABA, use-after-free, and livelock stress-test suites.
 - **[Parallel Wandering Salesperson (🚧 Work in Progress)](https://github.com/EthanCornell/Parallel-Wandering-Salesperson)**: Branch-and-Bound Wandering Salesman solver in C with OpenMP, leveraging a shared-memory parallel model for fast, multi-core search.
