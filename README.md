@@ -63,7 +63,7 @@ My work on projects like cache replacement policies, thread management systems, 
   
 #### Full-Stack Development
 - **[MiniProject](https://github.com/EthanCornell/mini-project)**: A GraphQL-based full-stack application integrating Go (backend), Vue.js (frontend), and MongoDB (database) using Docker for containerized deployment.
-- **[Game 2048](https://github.com/EthanCornell/2048)**: [link](https://two048-6cxs.onrender.com/)
+- **[Game 2048/8192](https://github.com/EthanCornell/2048)**: [link](https://two048-6cxs.onrender.com/)
 
 
  ### Most Used Languages 
