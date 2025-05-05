@@ -51,7 +51,7 @@ My work on projects like cache replacement policies, thread management systems, 
 - **[Gossip Protocol](https://github.com/EthanCornell/Gossip-protocol)**: Gossip protocol implementation in C++
 - **[Concurrent Webserver](https://github.com/EthanCornell/Concurrent-webserver)**: An implementation of a concurrent web server in C.
 - **[Distributed Raft-based Chat Server](https://github.com/EthanCornell/Distributed-Raft-based-Chat-Server)**: This project implements a distributed chat server using the Raft consensus algorithm for leader election and log replication. It features a simple key-value state machine, handles client commands, and maintains consistency across multiple nodes. The server is built with C++ and utilizes socket programming for network communication.
-- **[Distributed Word Count System](https://github.com/EthanCornell/Distributed-Word-Count-System/tree/future)**: This project implements a distributed word count system using a client-server architecture.
+- **[Distributed Word Count System](https://github.com/EthanCornell/Distributed-Word-Count-System/tree/future)**: Distributed word-count on a client–server model: the client leverages an LRU cache, thread-pooled BFS and parallel file processing to gather word counts, then sends file lists over TCP to a server that runs an in-process MapReduce—OpenMP-accelerated mappers, two-stage mutex-protected reduction and a final aggregation.
   
 #### Concurrent Programming/Parallel Computing Research
 - **[Parallel Computing](https://github.com/EthanCornell/Parallel-Computing)** 
