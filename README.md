@@ -63,7 +63,7 @@ My work on projects like cache replacement policies, thread management systems, 
   
 #### Full-Stack Development
 - **[MiniProject](https://github.com/EthanCornell/mini-project)**: A GraphQL-based full-stack application integrating Go (backend), Vue.js (frontend), and MongoDB (database) using Docker for containerized deployment.
-- **[Game 2048/8192](https://github.com/EthanCornell/2048)**:[A browser-based 2048/8192 puzzle](https://two048-6cxs.onrender.com/) with an Auto-Run AI that uses iterative-deepening Minimax and α–β pruning to quickly evaluate moves under a time budget, then executes the best move repeatedly until you stop or win.
+- **[Game 2048/8192](https://github.com/EthanCornell/2048)**: [A browser-based 2048/8192 puzzle](https://two048-6cxs.onrender.com/) with an Auto-Run AI that uses iterative-deepening Minimax and α–β pruning to quickly evaluate moves under a time budget, then executes the best move repeatedly until you stop or win.
 
 
  ### Most Used Languages 
