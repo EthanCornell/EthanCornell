@@ -43,7 +43,7 @@ My work on projects like cache replacement policies, thread management systems, 
 
 #### Data Structure and Algorithm Optimization Research
 - **[DSAlib](https://github.com/EthanCornell/DSAlib)**
-- **[HazardLFQ](https://github.com/EthanCornell/HazardLFQ)**:  A header-only, hazard-pointer–protected, lock-free queue for C++20.  **Status:** `v0.3` (experimental) — marching toward `v0.5`, which will clear our ABA, use-after-free, and livelock stress-test suites.
+- **[HazardLFQ / EBRLFQ](https://github.com/EthanCornell/HazardLFQ-EBRLFQ)**:  A header-only, hazard-pointer–protected, and epoch-based reclamation, lock-free queue for C++20.
 
 #### Distributed System Research
 - **[Distributed Filesystem](https://github.com/EthanCornell/Distrbuted-Filesystem)**: The project showcases the creation of a distributed filesystem using the C programming language.
@@ -54,7 +54,7 @@ My work on projects like cache replacement policies, thread management systems, 
   
 #### Concurrent Programming/Parallel Computing Research
 - **[CUDA Renderer](https://github.com/EthanCornell/CUDA-Renderer)**: The project involves creating a parallel renderer in CUDA for drawing colored circles. 
-- **[HazardLFQ](https://github.com/EthanCornell/HazardLFQ)**:  A header-only, hazard-pointer–protected, lock-free queue for C++20.  **Status:** `v0.3` (experimental) — marching toward `v0.5`, which will clear our ABA, use-after-free, and livelock stress-test suites.
+- **[HazardLFQ / EBRLFQ](https://github.com/EthanCornell/HazardLFQ-EBRLFQ)**:  A header-only, hazard-pointer–protected, and epoch-based reclamation, lock-free queue for C++20.
 - **[Parallel Wandering Salesperson (🚧 Work in Progress)](https://github.com/EthanCornell/Parallel-Wandering-Salesperson)**: Branch-and-Bound Wandering Salesman solver in C with OpenMP, leveraging a shared-memory parallel model for fast, multi-core search.
 - **[MPI Travelling-Salesman Solver](https://github.com/EthanCornell/-MPI-Wandering-Salesman-Solver)**: Blazing-fast branch-and-bound TSP solver (≤ 18 cities) in single-file C using the MPI message-passing model.
 - **[Trainium-MLAccel(🚧 Work in Progress)](https://github.com/EthanCornell/Trainium-MLAccel)**: High-performance ML kernels for AWS Trainium, optimized vector ops, fused conv+maxpool, and data streaming tiling to maximize throughput and hardware utilization.
