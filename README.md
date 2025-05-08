@@ -44,6 +44,7 @@ My work on projects like cache replacement policies, thread management systems, 
 #### Data Structure and Algorithm Optimization Research
 - **[DSAlib](https://github.com/EthanCornell/DSAlib)**
 - **[HazardLFQ / EBRLFQ](https://github.com/EthanCornell/HazardLFQ-EBRLFQ)**:  A header-only, hazard-pointer–protected, and epoch-based reclamation, lock-free queue for C++20.
+- **[Concurrent Red-Black Tree in Modern C++](https://github.com/EthanCornell/Concurrent-Red-Black-Tree-in-Modern-C-)**: Header-only C++17 red-black tree with per-node locks—parallel look-ups, serialized writers, and a built-in stress test for heavy-load correctness.
 
 #### Distributed System Research
 - **[Distributed Filesystem](https://github.com/EthanCornell/Distrbuted-Filesystem)**: The project showcases the creation of a distributed filesystem using the C programming language.
@@ -51,6 +52,7 @@ My work on projects like cache replacement policies, thread management systems, 
 - **[Concurrent Webserver](https://github.com/EthanCornell/Concurrent-webserver)**: An implementation of a concurrent web server in C.
 - **[Distributed Raft-based Chat Server](https://github.com/EthanCornell/Distributed-Raft-based-Chat-Server)**: This project implements a distributed chat server using the Raft consensus algorithm for leader election and log replication. It features a simple key-value state machine, handles client commands, and maintains consistency across multiple nodes. The server is built with C++ and utilizes socket programming for network communication.
 - **[Distributed Word Count System](https://github.com/EthanCornell/Distributed-Word-Count-System/tree/future)**: Distributed word-count on a client–server model: the client leverages an LRU cache, thread-pooled BFS and parallel file processing to gather word counts, then sends file lists over TCP to a server that runs an in-process MapReduce—OpenMP-accelerated mappers, two-stage mutex-protected reduction and a final aggregation.
+- **[Concurrent Red-Black Tree in Modern C++](https://github.com/EthanCornell/Concurrent-Red-Black-Tree-in-Modern-C-)**: Header-only C++17 red-black tree with per-node locks—parallel look-ups, serialized writers, and a built-in stress test for heavy-load correctness.
   
 #### Concurrent Programming/Parallel Computing Research
 - **[CUDA Renderer](https://github.com/EthanCornell/CUDA-Renderer)**: The project involves creating a parallel renderer in CUDA for drawing colored circles. 
