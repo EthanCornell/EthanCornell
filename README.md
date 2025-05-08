@@ -52,8 +52,7 @@ My work on projects like cache replacement policies, thread management systems, 
 - **[Concurrent Webserver](https://github.com/EthanCornell/Concurrent-webserver)**: An implementation of a concurrent web server in C.
 - **[Distributed Raft-based Chat Server](https://github.com/EthanCornell/Distributed-Raft-based-Chat-Server)**: This project implements a distributed chat server using the Raft consensus algorithm for leader election and log replication. It features a simple key-value state machine, handles client commands, and maintains consistency across multiple nodes. The server is built with C++ and utilizes socket programming for network communication.
 - **[Distributed Word Count System](https://github.com/EthanCornell/Distributed-Word-Count-System/tree/future)**: Distributed word-count on a client–server model: the client leverages an LRU cache, thread-pooled BFS and parallel file processing to gather word counts, then sends file lists over TCP to a server that runs an in-process MapReduce—OpenMP-accelerated mappers, two-stage mutex-protected reduction and a final aggregation.
-- **[Concurrent Red-Black Tree in Modern C++](https://github.com/EthanCornell/Concurrent-Red-Black-Tree-in-Modern-C-)**: Header-only C++17 red-black tree with per-node locks—parallel look-ups, serialized writers, and a built-in stress test for heavy-load correctness.
-  
+
 #### Concurrent Programming/Parallel Computing Research
 - **[CUDA Renderer](https://github.com/EthanCornell/CUDA-Renderer)**: The project involves creating a parallel renderer in CUDA for drawing colored circles. 
 - **[HazardLFQ / EBRLFQ](https://github.com/EthanCornell/HazardLFQ-EBRLFQ)**:  A header-only, hazard-pointer–protected, and epoch-based reclamation, lock-free queue for C++20.
@@ -61,6 +60,8 @@ My work on projects like cache replacement policies, thread management systems, 
 - **[MPI Travelling-Salesman Solver](https://github.com/EthanCornell/-MPI-Wandering-Salesman-Solver)**: Blazing-fast branch-and-bound TSP solver (≤ 18 cities) in single-file C using the MPI message-passing model.
 - **[Trainium-MLAccel(🚧 Work in Progress)](https://github.com/EthanCornell/Trainium-MLAccel)**: High-performance ML kernels for AWS Trainium, optimized vector ops, fused conv+maxpool, and data streaming tiling to maximize throughput and hardware utilization.
 - **[PicoGPT(🚧 Work in Progress)](https://github.com/EthanCornell/FlashNanoGPT)**: A hands-on fork of NanoGPT with FlashAttention-2 CUDA kernels, INT8/INT4 GPTQ quantization, paged KV-cache reuse, and continuous batching, turning a tiny Shakespeare model into a full-speed GPU LLM inference demo.
+- **[Concurrent Red-Black Tree in Modern C++](https://github.com/EthanCornell/Concurrent-Red-Black-Tree-in-Modern-C-)**: Header-only C++17 red-black tree with per-node locks—parallel look-ups, serialized writers, and a built-in stress test for heavy-load correctness.
+  
   
 #### Full-Stack Development
 - **[MiniProject](https://github.com/EthanCornell/mini-project)**: A GraphQL-based full-stack application integrating Go (backend), Vue.js (frontend), and MongoDB (database) using Docker for containerized deployment.
