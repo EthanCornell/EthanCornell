@@ -44,7 +44,7 @@ My work on projects like cache replacement policies, thread management systems, 
 #### Data Structure and Algorithm Optimization Research
 - **[DSAlib](https://github.com/EthanCornell/DSAlib)**
 - **[HazardLFQ / EBRLFQ](https://github.com/EthanCornell/HazardLFQ-EBRLFQ)**:  A header-only, hazard-pointer–protected, and epoch-based reclamation, lock-free queue for C++20.
-- **[Concurrent Red-Black Tree in Modern C++](https://github.com/EthanCornell/Concurrent-Red-Black-Tree-in-Modern-C-)**: Header-only C++17 red-black tree with per-node locks—parallel look-ups, serialized writers, and a built-in stress test for heavy-load correctness.
+- **[RedLockTree](https://github.com/EthanCornell/RedLockTree)**: Header-only C++17 red-black tree with per-node locks—parallel look-ups, serialized writers, and a built-in stress test for heavy-load correctness.
 
 #### Distributed System Research
 - **[Distributed Filesystem](https://github.com/EthanCornell/Distrbuted-Filesystem)**: The project showcases the creation of a distributed filesystem using the C programming language.
