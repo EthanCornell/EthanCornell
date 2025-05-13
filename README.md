@@ -22,7 +22,7 @@
 
 ### 🛠 Technical Proficiencies
 
-- **Languages**: C++11/17, C, Python, Java, Shell Script
+- **Languages**: C++11/17/20, C, Python, Java, Shell Script
 - **Systems and Databases**: Linux, FreeBSD, UNIX, MacOS, Windows, MySQL, PostgreSQL, SQL
 - **Tools and APIs**: Git, GitHub, Vim, GDB, Valgrind, gprof, GCP, Vim, STL, OpenMP, OpenMPI, PyTorch, GCP, Jenkins, Android NDK, numpy, Matplotlib, Pandas, ReactJs
 - **Skills**: Algorithms, Data Structure, Thread Programming, Concurrency Programming, Parallel Programming, Multi-Threading, System Optimization, Memory Management
