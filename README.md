@@ -62,6 +62,7 @@ My work on projects like cache replacement policies, thread management systems, 
 - **[Trainium-MLAccel(🚧 Work in Progress)](https://github.com/EthanCornell/Trainium-MLAccel)**: High-performance ML kernels for AWS Trainium, optimized vector ops, fused conv+maxpool, and data streaming tiling to maximize throughput and hardware utilization.
 - **[PicoGPT(🚧 Work in Progress)](https://github.com/EthanCornell/FlashNanoGPT)**: A hands-on fork of NanoGPT with FlashAttention-2 CUDA kernels, INT8/INT4 GPTQ quantization, paged KV-cache reuse, and continuous batching, turning a tiny Shakespeare model into a full-speed GPU LLM inference demo.
 - **[RedLockTree](https://github.com/EthanCornell/RedLockTree)**: Header-only C++17 red-black tree with per-node locks—parallel look-ups, serialized writers, and a built-in stress test for heavy-load correctness.
+- **[Harmony](https://github.com/EthanCornell/harmony)**: A Python-like programming language for testing and experimenting with concurrent programs.
   
   
 #### Full-Stack Development
