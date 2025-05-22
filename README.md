@@ -47,7 +47,7 @@ My work on projects like cache replacement policies, thread management systems, 
 - **[RedLockTree](https://github.com/EthanCornell/RedLockTree)**: Header-only C++17 red-black tree with per-node locks—parallel look-ups, serialized writers, and a built-in stress test for heavy-load correctness.
 
 #### Distributed System Research
-- **[Distributed Filesystem](https://github.com/EthanCornell/Distrbuted-Filesystem)**: The project showcases the creation of a distributed filesystem using the C programming language.
+- **[Edge-Buffer micro-DFS: Distributed File System](https://github.com/EthanCornell/Distrbuted-Filesystem)**: The project showcases the creation of a distributed filesystem using the C programming language.
 - **[Gossip Protocol](https://github.com/EthanCornell/Gossip-protocol)**: Gossip protocol implementation in C++
 - **[Concurrent Webserver](https://github.com/EthanCornell/Concurrent-webserver)**: An implementation of a concurrent web server in C.
 - **[Distributed Raft-based Chat Server](https://github.com/EthanCornell/Distributed-Raft-based-Chat-Server)**: This project implements a distributed chat server using the Raft consensus algorithm for leader election and log replication. It features a simple key-value state machine, handles client commands, and maintains consistency across multiple nodes. The server is built with C++ and utilizes socket programming for network communication.
