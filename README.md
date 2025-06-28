@@ -38,6 +38,7 @@ My work on projects like cache replacement policies, thread management systems, 
 - **[Netgraph Epochization for FreeBSD (🚧 Work in Progress)](https://github.com/EthanCornell/Netgraph)**:  Re-engineers the kernel’s Netgraph packet path to be lock-free with epoch-based reclamation, slashing contention and scaling cleanly across modern multi-core CPUs.
 - **[mini-migration](https://github.com/EthanCornell/mini-migration/tree/main)**: Mini-Migration is a Cross-platform resumable file-transfer tool. C++17 core, Objective-C++ macOS layer; built for Apple Backup & Migration workflows. **Status:** `v0.31` (feature-complete, frozen) → now targeting **v0.5**
 - **[Mini Malloc - Memory Allocator Implementation](https://github.com/EthanCornell/mini_malloc)**: A comprehensive memory allocation library implementation featuring multiple levels of sophistication, from basic first-fit allocation to security-enhanced allocators with extensive debugging capabilities.
+- **[UltraSIMD](https://github.com/EthanCornell/UltraSIMD)**: Ultra-fast SIMD library delivering 18.7× speedups through AVX-512 optimization, supporting F32/F16/I8/BF16 data types with 100% accuracy across 175 test cases.
 
 #### Cache Research
 - **[Cache Replacement Policies](https://github.com/EthanCornell/Cache-replacement-policies)**: This repository contains a comprehensive implementation of various cache replacement algorithms written in C.
